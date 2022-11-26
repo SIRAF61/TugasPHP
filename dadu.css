@@ -1,0 +1,44 @@
+body{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.501),rgba(0, 0, 0, 0.31)), url("bg.jpg");
+	height: 609px;
+	margin: 0;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+h1{
+	color: white;
+	text-align: center;
+}
+table{
+	width: 400px;
+	border: 1px solid;
+	border-color: white;
+	font-family: Book Antiqua;
+	color: white;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+th.a{
+	text-align: center;
+	border: 1px solid;
+	border-color: black;
+	background-color: #1f3e58;
+}
+td.b{
+	text-align: center;
+	border: 1px solid;
+	border-color: black;
+	background-color: #7aaed6;
+}
+#isi{
+	margin: auto;
+	padding:2px; 
+	color:rgb(102, 148, 183);
+	font-family: Helvetica;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
